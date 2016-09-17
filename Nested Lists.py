@@ -1,4 +1,6 @@
 # Nested Lists
+## Print names of students that had the second lowest mark in a class
+
 N = int(raw_input().strip())
 full_list = []
 
