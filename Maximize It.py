@@ -4,7 +4,6 @@
 ## S = (f(X_1) + f(X_2) + ... + f(X_K)) % M
 
 import itertools
-
 K, M = map(int, raw_input().strip(" ").split())
 
 maximum = []
