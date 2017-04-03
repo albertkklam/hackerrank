@@ -9,4 +9,4 @@ Here are some additional resources if you are looking to explore Scala, Spark an
 1. [What is Apache Spark?](https://www.supergloo.com/spark-tutorial/)
 2. [Spark Tutorials with Scala](https://www.supergloo.com/spark-tutorial/spark-tutorials-scala/)
 3. [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
-4. [Walkthrough of 99 Scala Problems](http://blog.thedigitalcatonline.com/categories/scala/)
+4. [Walkthrough of 99 Scala Problems by The Digital Cat](http://blog.thedigitalcatonline.com/categories/scala/)
