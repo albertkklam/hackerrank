@@ -11,6 +11,6 @@ Here are some additional resources if you are looking to explore Scala, Spark an
 2. [Spark Tutorials with Scala](https://www.supergloo.com/spark-tutorial/spark-tutorials-scala/)
 3. [Walkthrough of 99 Scala Problems by The Digital Cat](http://blog.thedigitalcatonline.com/categories/scala/)
 
-### Functional Programming
+### Lambda Calculus
 1. [Wikipedia: Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
 2. [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
