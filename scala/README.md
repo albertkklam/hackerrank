@@ -15,3 +15,6 @@ Here are some additional resources if you are looking to explore Scala, Spark an
 1. [Wikipedia: Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
 2. [Wikipedia: Church encoding](https://en.wikipedia.org/wiki/Church_encoding)
 3. [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
+
+### Tail Recursion
+1. [Tail Recursion Basics in Scala](https://oldfashionedsoftware.com/2008/09/27/tail-recursion-basics-in-scala/)
