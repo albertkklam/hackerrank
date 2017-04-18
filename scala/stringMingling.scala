@@ -1,5 +1,5 @@
-# String Mingling
-## You are given two strings P and Q, determine the mingled string R
+// String Mingling
+// You are given two strings P and Q, determine the mingled string R
 
 val p = readLine().toList
 val q = readLine().toList
