@@ -12,7 +12,7 @@ object Solution {
       reduceHelper(sList).mkString("")
     }
     val inputs = io.Source.stdin.getLines
-    for (x <- inputs) {
+    for(x <- inputs) {
       println(stringReduce(x))
     }
   }
