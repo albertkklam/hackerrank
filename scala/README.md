@@ -4,7 +4,7 @@
 A collection of Scala solutions to select Functional Programming problems from HackerRank.
 
 ## Resources
-Here are some additional resources if you are looking to explore Scala, Spark and functional programming more extensively:
+Here are some additional resources if you are looking to explore Scala and functional programming more extensively:
 
 ### Scala
 1. [Walkthrough of 99 Scala Problems by The Digital Cat](http://blog.thedigitalcatonline.com/categories/scala/)
