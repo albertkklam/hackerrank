@@ -3,8 +3,8 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/problems%20solved-45-brightgreen.svg">
-	<img src="https://img.shields.io/badge/languages-Python%20%2B%20Scala-blue.svg">
-	<img src="https://img.shields.io/badge/last%20update-02%2F06%2F2017-green.svg">
+	<img src="https://img.shields.io/badge/languages-Python%20%2B%20Scala-lightgrey.svg">
+	<img src="https://img.shields.io/badge/last%20update-02%2F06%2F2017-brightgreen.svg">
 </p>
 
 # hackerrank
