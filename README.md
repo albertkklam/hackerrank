@@ -5,10 +5,6 @@
 <p align="center">
   Solutions to problems on HackerRank.
 </p>
-<p align="center">
-	HackerRank's new  problem format!
-</p>
-
 <!--
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
