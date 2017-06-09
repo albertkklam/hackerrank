@@ -1,5 +1,5 @@
 # Pangrams
-## Print whether a given string is a pangram or not. Pangrams are sentences constructed by using every letter of the alphabet at least once.
+## https://www.hackerrank.com/challenges/pangrams
 
 from string import ascii_lowercase as al
 
