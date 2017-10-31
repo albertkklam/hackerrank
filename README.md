@@ -2,7 +2,7 @@
 	<a href="https://www.hackerrank.com/albiewalbie"><img src="http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg" ></a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/challenges%20solved-93-brightgreen.svg">
+	<img src="https://img.shields.io/badge/challenges%20solved-94-brightgreen.svg">
 	<img src="https://img.shields.io/badge/languages-Python%20%2F%20Scala-lightgrey.svg">
 	<img src="https://img.shields.io/badge/last%20update-31%2F10%2F2017-brightgreen.svg">
 </p>
