@@ -3,7 +3,8 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/challenges%20solved-100-brightgreen.svg">
-	<img src="https://img.shields.io/badge/languages-Python%20%2F%20Scala-lightgrey.svg">
+	<img src="https://img.shields.io/badge/python-2.7.14-blue.svg">
+	<img src="https://img.shields.io/badge/scala-2.12.4-red.svg">
 	<img src="https://img.shields.io/badge/last%20update-04%2F11%2F2017-brightgreen.svg">
 </p>
 
