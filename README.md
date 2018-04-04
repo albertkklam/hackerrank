@@ -5,9 +5,10 @@
 	<img src="https://img.shields.io/badge/challenges%20solved-117-brightgreen.svg">
 	<img src="https://img.shields.io/badge/python-2.7.14-blue.svg">
 	<img src="https://img.shields.io/badge/python-3.6.3-blue.svg">
+	<img src="https://img.shields.io/badge/java-8-red.svg">
 	<img src="https://img.shields.io/badge/scala-2.12.4-red.svg">
 	<img src="https://img.shields.io/badge/last%20update-11%2F12%2F2017-green.svg">
 </p>
 
 # hackerrank
-A collection of Python and Scala solutions to select problems from HackerRank.
+A collection of Python, Java, and Scala solutions to select problems from HackerRank.
