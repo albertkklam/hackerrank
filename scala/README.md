@@ -9,6 +9,7 @@ Here are some additional resources if you are looking to explore Scala and funct
 ### Scala
 1. [Walkthrough of 99 Scala Problems by The Digital Cat](http://blog.thedigitalcatonline.com/categories/scala/)
 2. [Madusudanan's Scala Tutorials](https://madusudanan.com/blog/scala-tutorials-part-1-getting-started/)
+3. [Scala School](https://twitter.github.io/scala_school/index.html)
 
 ### Lambda Calculus
 1. [Wikipedia: Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
