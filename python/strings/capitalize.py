@@ -1,5 +1,6 @@
 # Capitalize!
-## Capitalize each word of a string s
+## https://www.hackerrank.com/challenges/capitalize/problem
+### Python 2.7
 
 s = raw_input()
 
