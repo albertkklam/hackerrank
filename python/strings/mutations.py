@@ -1,5 +1,6 @@
 # Mutations
-## Edit one character in a string
+## https://www.hackerrank.com/challenges/python-mutations/problem
+### Python 2.7
 
 string_list = [letter for letter in raw_input().strip()]
 index, character = raw_input().strip().split()
