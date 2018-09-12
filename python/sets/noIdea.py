@@ -1,5 +1,6 @@
 # No Idea!
-## https://www.hackerrank.com/challenges/no-idea
+## https://www.hackerrank.com/challenges/no-idea/problem
+### Python 2.7
 
 n, m = map(int,raw_input().strip().split(' '))
 arr = map(int,raw_input().strip().split(' '))
