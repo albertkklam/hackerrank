@@ -1,7 +1,6 @@
 # Maximize It!
-## You are given a function f(x) = x ** 2. You are also given K lists. The i^th list consists of N_i elements
-## You have to pick exactly one element from each list so that the equation below is maximized:
-## S = (f(X_1) + f(X_2) + ... + f(X_K)) % M
+## https://www.hackerrank.com/challenges/maximize-it/problem
+### Python 2.7
 
 import itertools
 K, M = map(int, raw_input().strip(" ").split())
